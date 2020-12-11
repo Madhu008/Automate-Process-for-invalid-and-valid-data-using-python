@@ -1,0 +1,2 @@
+# Automate-Process-for-invalid-and-valid-data-using-python
+Create functionalities to automate the testing of the data as invalid and valid. The data has to be  ###                   read from .csv files and the results/processes are to be shown as logs. To initialize the log we have ###                   created config_demo.ini giving the log path and rulebook path - rules to be followed/functionalities (rulebook.csv) ###                   Functionalities >
